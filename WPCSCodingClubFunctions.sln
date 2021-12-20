@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPCSCodingClubFunctions", "WPCSCodingClubFunctions\WPCSCodingClubFunctions.csproj", "{9B711E71-6C5E-443D-A488-FB4F4759004C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B711E71-6C5E-443D-A488-FB4F4759004C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B711E71-6C5E-443D-A488-FB4F4759004C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B711E71-6C5E-443D-A488-FB4F4759004C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B711E71-6C5E-443D-A488-FB4F4759004C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C2B21B-5F75-46A0-A61D-D636FF51C018}
+	EndGlobalSection
+EndGlobal
